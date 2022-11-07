@@ -1,0 +1,65 @@
+header,article,p{
+    text-align: center;
+}
+
+.bg-gray {
+    background-color:#eeeeee ;
+}
+
+.bg-1 {
+    background-color: #7de5da;
+}
+
+.bg-2 {
+    background-color: #70cbc2;
+}
+
+.bg-3 {
+    background-color: #62b3aa;
+}
+
+.content {
+    display:flex;
+    width: 100%;
+    float: left;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.container {
+    width: 100%;
+    float: left;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+
+.card {
+    width: 40%;
+    float: left;
+    margin: 2px 2px 0px 0px;
+    padding: 10px ;
+}
+
+.card-2 {
+    width: 15%;
+    float: left;
+    margin: 2px 2px 0px 0px;
+    padding:5px ;
+}
+
+
+.card-3 {
+    width:45%;
+    float: left;
+    margin: 2px 0px 0px 0px;
+}
+
+.input {
+    width: 300px;
+    margin: 0px;
+}
+
+p {
+    margin: 0px;
+}
